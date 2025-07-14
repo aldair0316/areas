@@ -14,7 +14,7 @@ def calcular_area_circulo(radio): #Función para calcular el área del circulo
     radio = float(radio) #Nuestra variable debe ser flotante
     if radio <= 0: #Validación para que el número no sea negativo
       return None #Sentencia para evitar que se ingresen datos que no sean números
-    return math.pi * (radio ** 2) #Calculo del area mediante PI y el radio al cuadrado
+    return 3.1416 * (radio ** 2) #Calculo del area mediante PI y el radio al cuadrado
   except (ValueError, TypeError): #Bloque de código que se ejecuta si algo no está bien dentro del Try
     return None #Sentencia para evitar que se ingresen datos que no sean números
   
