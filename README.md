@@ -1,4 +1,8 @@
-Este proyecto contiene dos archivos de python, en el primero de ellos podemos encontrar funciones para calcular el área de un cuadrdado, un círculo y un triángulo, mirntras que en el segundo están las pruebas unitarias de las funciones.
+🧠 Descripción del proyecto
+
+Este proyecto contiene dos archivos de python, en el primero de ellos podemos encontrar funciones para calcular el área de un cuadrado, un círculo y un triángulo, mientras que en el segundo están las pruebas unitarias de las funciones.
+
+📹 Presentaciones de funciones
 
 ¡Presentación de la función para calcular el área de un cuadrado!
 
@@ -12,11 +16,17 @@ Este proyecto contiene dos archivos de python, en el primero de ellos podemos en
 
 ![08693457-4729-48df-b47c-afb367e4bd0b](https://github.com/user-attachments/assets/4b0db61c-1db5-4fb3-9431-ef376c168ac3)
 
-Dentro del código principal podemos encontrar un menú de opciones en el cual podemos seleccionar que hará el programa.
+🧭 Menú interactivo
+
+Dentro del código principal podemos encontrar un menú de opciones en el cual podemos seleccionar que acción realizará el programa el programa.
 Como función adicional, puedes salir del programa como una opción.
 
 ![de2b8d32-0c05-4f1d-8d2b-800ea30d69d6](https://github.com/user-attachments/assets/7d22f92f-226f-4030-b667-47ba07013920)
 
-Al consultar el código encontrará que en su mayoría o totalidad, está comentado, lo que le permite entender el funcionamiento de las líenas de código.
+💬 Comentarios en el código
+
+Al consultar el código encontrará que en su mayoría o totalidad, está comentado, lo que le permite entender el funcionamiento de las líneas de código.
+
+📩 Contacto
 
 Si tiene alguna duda, puede contactarme y con gusto ayudaré.
